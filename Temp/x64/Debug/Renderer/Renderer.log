@@ -1,0 +1,14 @@
+﻿  glad.c
+  Font.cpp
+  Model.cpp
+  Renderer.cpp
+  Text.cpp
+  Texture.cpp
+  Generating Code...
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+SDL2_image.lib(SDL2_image.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+  Renderer.vcxproj -> C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Fall Semester 2023\Computer Graphics\gat350_fall2023\GAT350-RT3D\Bin\x64\Debug\Renderer\Renderer.lib
+  C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Fall Semester 2023\Computer Graphics\gat350_fall2023\GAT350-RT3D\Source\ThirdParty\SDL2-2.28.4\lib\x64\SDL2.dll
+  C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Fall Semester 2023\Computer Graphics\gat350_fall2023\GAT350-RT3D\Source\ThirdParty\SDL2-2.28.4\lib\x64\SDL2_image.dll
+  C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Fall Semester 2023\Computer Graphics\gat350_fall2023\GAT350-RT3D\Source\ThirdParty\SDL2-2.28.4\lib\x64\SDL2_ttf.dll
+  3 File(s) copied
